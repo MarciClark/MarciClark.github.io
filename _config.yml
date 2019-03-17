@@ -1,11 +1,11 @@
 # Site settings
 author: Marci Clark
-title: 
+title: Marci Learns To Programm
 header-img: img/home-bg.png
 email: marcig612@gmail.com
 copyright_name: Marci Clark
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is going to be a bumpy, but fun, ride. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MarciClark
