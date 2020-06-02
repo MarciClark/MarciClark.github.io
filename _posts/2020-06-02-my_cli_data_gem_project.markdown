@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Data Gem Project"
-date:       2020-06-02 12:48:04 +0000
+date:       2020-06-02 08:48:05 -0400
 permalink:  my_cli_data_gem_project
 ---
 
@@ -28,6 +28,6 @@ And with that, my program is complete.  My user can confidently run my program, 
 
 The scraping really gave me my biggest hurdle with this project.  Finding a good webpage to scrape and then finding the right elements to use required a lot of trial and error.  But once I figured out what elements worked, I had to figure out how to get my scraper to work in other parts of my program and that was a bit of a challenge for me, also.  With the help of Flatiron’s lessons, study groups, and Google, I was able to manage building my first CLI program that, while very simple and basic, I am pretty proud of. 
 
-Here is the video of my walkthrough!  
+Here is a walkthrough of my program!  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRvoi36kO-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
