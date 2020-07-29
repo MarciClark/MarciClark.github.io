@@ -6,7 +6,7 @@ permalink:  my_first_cli
 ---
 
 
-I recently wrote my first CLI program for my CLI portfolio project.  For my program, I scraped the top coffee shops in the Cincinnati area.  (Github link [here](http://github.com/MarciClark/best_coffee_cinci)).  I learned a lot during the entire process of planning and writing this program.  While the curriculum itself offered plenty of information to implement into my program, I had no clue just how much coding you could do in one simple program.  This post is about just one line of code I wrote, but it is an important one.  
+I recently wrote my first CLI program for my CLI portfolio project.  For my program, I scraped the top coffee shops in the Cincinnati area (Github link [here](http://github.com/MarciClark/best_coffee_cinci)).  I learned a lot during the entire process of planning and writing this program.  While the curriculum itself offered plenty of information to implement into my program, I had no clue just how much coding you could do in one simple program.  This post is about just one line of code I wrote, but it is an important one.  
 
 CLI programs rely on user input to direct the program on what to do.  While computer programs can gather, process, and return data, they need boundaries to ensure it works properly and efficiently.  The user has the ability to type in whatever they wish in the command line, so with that in mind, I needed to come up with a way to ensure that the user’s input would be recognized by my program.  Thankfully, Ruby has methods for this.  
 
